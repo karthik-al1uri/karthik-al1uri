@@ -2,7 +2,7 @@
 
 # Hey, I'm Karthik Alluri 👋
 
-**MS in Computer Science @ University of Colorado Boulder (GPA: 3.910/4.000)**
+**MS in Computer Science @ University of Colorado Boulder **
 
 *Building intelligent systems at the intersection of ML, LLMs, and Data Engineering*
 
